@@ -1,7 +1,8 @@
 # guia5
 
 trapecio:
-    ```fortran              
+
+```fortran              
     h = (b-a)/n
     It = (f(a)+f(b))/2._wp
     do i = 1, n-1
