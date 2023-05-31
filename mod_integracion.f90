@@ -29,9 +29,11 @@ contains
 	implicit none
 	end subroutine pmedio
 	
-	subroutine trapecio (a, b, n, ti)
+	subroutine trapecio (a, b, n, It, xi)
 	use mod_prec
 	implicit none
+	
+	
 	end subroutine trapecio
 	
 	subroutine simpson (a, b, n, ti)
